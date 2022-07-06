@@ -23,8 +23,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+User Management Project help us to do all authentication of the users using link reset password, link email verify,2 Factor Authentication, Approve submitted documents of the users after reviewing them.
+This the backend built in nest js Framework and posgresql as Database
 
 ## Installation
 
@@ -64,7 +64,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
+- Author - [https://www.linkedin.com/in/aimable-muzuri/)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
