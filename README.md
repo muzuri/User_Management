@@ -1,5 +1,9 @@
 # User_Management
 
+# Description
+
+User Management Project help us to do all authentication of the users using link reset password, link email verify,2 Factor Authentication, Approve submitted documents of the users after reviewing them.
+
 # Run Frotend
 In the project directory, you can run:
 
